@@ -1,2 +1,1 @@
-Missing yaml file `report.yaml`
-Unable to fetch assets for ST20-003.
+Assets we could fetch: ['report.yaml', 'img/logo.png', 'img/team.jpg', 'img/kenneth.jpg', 'img/isabella.jpg', 'img/arief.jpg', 'img/manu.jpg']
