@@ -1,0 +1,28 @@
+company:
+  name: Alwa Career
+  logo: img/logo.png
+product_narrative: 
+  A platform connecting experienced professionals and young talents in the creative sector that 
+  seek constructive feedback on their projects so they can  grow in their career. 
+team:
+  picture: img/team.jpg
+  roster:
+  - name: Kenneth Lee
+    email: kl922@cornell.edu
+    picture: img/kenneth.jpg
+    program: ORIE
+  - name: Isabella Wang
+    email: wangx733@newschool.edu
+    picture: img/isabella.jpg
+    program: DESIGN
+  - name: Arief Raja Jacob Hutahaean
+    email: arh272@cornell.edu
+    picture: img/arief.jpg
+    program: LLM
+  - name: Manu Sharma
+    email: mas625@cornell.edu
+    picture: img/manu.jpg
+    program: MBA
+assets:
+- title: Sprint 1
+  url: https://docs.google.com/presentation/d/1RQMrP-AjxLBAb3im0dMWcAFOYx5a2yKo7TP76OeMSFk/edit?usp=sharing
