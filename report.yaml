@@ -6,7 +6,7 @@ product_narrative:
   seek constructive feedback on their projects so they can  grow in their career. 
 team:
   picture: img/team.jpg
-  videoL https://www.youtube.com/watch?v=DsfwcdSZvVY
+  video: https://www.youtube.com/watch?v=DsfwcdSZvVY
   roster:
   - name: Kenneth Lee
     email: kl922@cornell.edu
