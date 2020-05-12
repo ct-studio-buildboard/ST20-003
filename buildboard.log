@@ -1,1 +1,9 @@
-Assets we could fetch: ['report.yaml', 'img/logo.png', 'img/team.jpg', 'img/kenneth.jpg', 'img/isabella.jpg', 'img/arief.jpg', 'img/manu.jpg']
+Incorrect yaml format for report.yaml: while scanning a simple key
+  in "<byte string>", line 9, column 3:
+      videoL https://www.youtube.com/w ... 
+      ^
+could not find expected ':'
+  in "<byte string>", line 10, column 3:
+      roster:
+      ^.
+Unable to fetch assets for ST20-003.
